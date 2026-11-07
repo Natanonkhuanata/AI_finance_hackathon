@@ -1,2 +1,2 @@
-# AI_finance_hackathon
+# AI_finance_hackathon_Chulalongkorn_University
 AI_finance_hackathon
